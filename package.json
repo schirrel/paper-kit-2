@@ -5,9 +5,7 @@
   "homepage": "http://creative-tim.com/product/paper-kit",
   "author": "Creative Tim",
   "license": "Creative Tim License <www.creative-tim.com/license>",
-  "dependencies": {
-  
-  },
+  "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^5.0.0",
