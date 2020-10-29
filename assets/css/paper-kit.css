@@ -4672,16 +4672,6 @@ License - nucleoapp.com/license/
       display: block;
       content: "";
       z-index: 1; }
-  .nav-open .navbar-collapse {
-    -webkit-transform: translateX(0px);
-    transform: translateX(0px); }
-  .nav-open .wrapper {
-    left: 0;
-    -webkit-transform: translateX(-230px);
-    transform: translateX(-230px); }
-  .nav-open .navbar-translate {
-    -webkit-transform: translateX(-230px);
-    transform: translateX(-230px); }
   .wrapper .navbar-collapse {
     display: none; }
   .register-page.full-screen .page-header .container {
